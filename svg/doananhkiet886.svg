@@ -79,7 +79,9 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi everybody!<br/>I'm Doan Anh Kiet
+          Hi everybody!<br/>
+          I'm Doan Anh Kiet<br/>
+          I'm a BackEnd Developer
         </div>
         <div class="skills">
           <div class="skills_icon">
